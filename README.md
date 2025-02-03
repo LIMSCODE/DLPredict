@@ -1,6 +1,8 @@
-# DLPredict
-DeepLearning Multimodal Predict <br>
+# LLM_DLPredict
+상품-사용자데이터를 LLM학습후 LLM으로 상품을추천하고, 멀티모달 딥러닝을통해 추천된상품의 매출액을예측한다.  <br>
 ![image](https://github.com/user-attachments/assets/b8b416c4-27d7-40d4-963f-742ce72f8f39)
+
+![image](https://github.com/user-attachments/assets/16634c2c-4c76-41f1-96e8-d06f47251d80)
 
 ### 사용자데이터.csv
 ```
