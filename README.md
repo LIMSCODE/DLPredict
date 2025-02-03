@@ -1,6 +1,6 @@
 # DLPredict
 DeepLearning Multimodal Predict <br>
-![image](https://github.com/user-attachments/assets/3ab68366-14a3-4a30-ba32-93eda500243e)
+![image](https://github.com/user-attachments/assets/b8b416c4-27d7-40d4-963f-742ce72f8f39)
 
 ### 사용자데이터.csv
 ```
@@ -32,4 +32,4 @@ answer: { "product_name": "화장품추천결과", "description": 설명 }
 ```
 
 ### 매출액예측결과.xlsx
-추천된상품의 매출액분포비교
+추천된상품의 매출액예측 및 분포비교
