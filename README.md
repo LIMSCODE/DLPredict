@@ -1,5 +1,5 @@
 # LLM_DLPredict
-상품-사용자데이터를 LLM학습후 LLM으로 상품을추천하고, 멀티모달 딥러닝을통해 추천된상품의 매출액을예측한다.  <br><br>
+상품-사용자데이터를 LLM학습후 LLM으로 상품을추천하고, 멀티모달딥러닝 및 머신러닝(cluster기반/XGBoost학습) 추천된상품의 매출액을예측후 성능을비교함  <br><br>
 [프로젝트 PPT파일](https://github.com/LIMSCODE/LLM_DLPredict/blob/main/LLM_DLPred.pptx)
  
 #### 구성도 
